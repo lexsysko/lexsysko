@@ -1,6 +1,6 @@
 Welcome page
 
-- [Personal Blog page](https://lexxai.blogspot.com)
+- [Personal Blog page](https://lexsysko.blogspot.com)
 - [lexsysko.github.io](https://lexsysko.github.io/)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
@@ -27,3 +27,4 @@ Welcome page
   - [Small pet projetcs - Python programming language](https://github.com/lexsysko/pet_projetcs_python)
  
 - [List of short gist](https://gist.github.com/lexsysko)
+- [Archived Personal Blog page](https://lexxai.blogspot.com)
