@@ -5,7 +5,7 @@ Welcome page
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
   - [Seven Segment Monitor is a computer vision and IoT tool that continuously captures images from a web camera](https://github.com/lexsysko/SevenSegmentMonitor)
-  - [Analyzing sound using PSD and FFT tools for trigger event monitoring](https://github.com/lexsysko/SoundMonitor)
+  - [SoundMonitor is an IoT sound and acoustic pattern monitoring tool designed to capture live audio, analyze spectral characteristics (PSD / Power), detect target operational states](https://github.com/lexsysko/SoundMonitor)
   - [ThermometerMonitor is an asynchronous Bluetooth Low Energy (BLE) environmental monitor and telemetry logger.](https://github.com/lexsysko/ThermometerMonitor)
   - [Django MariaDB Vector. Library: pip install django-mariadb-vector](https://github.com/lexsysko/django-mariadb-vector)
   - [Django MariaDB Vector Demo](https://github.com/lexsysko/django-mariadb-vector-demo)
